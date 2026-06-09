@@ -109,6 +109,21 @@ Solutions Architect with 15+ years building critical systems in production. I ha
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NEW-0EA5E9?style=flat-square&logoColor=white"/></h3>
+      <p>B2B SaaS fleet telemetry platform. <strong>10 .NET 8 microservices</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), 3-node <strong>Kafka KRaft</strong>, <strong>TimescaleDB</strong> hypertables for GPS pings, <strong>PostGIS</strong> ST_Contains geofencing, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, SignalR real-time alerts. Multi-tenant RLS on PostgreSQL. 280+ unit tests · OWASP-audited · GitHub Actions CI/CD · Azure Container Apps IaC (Bicep).</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kafka_KRaft-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/microservices-demo">⚙️ microservices-demo</a></h3>
       <p>Event-driven distributed architecture with 4 independent microservices. Implements <strong>Outbox Pattern</strong> for at-least-once delivery, circuit breaker, IP-based rate limiting and concurrent Kafka consumers.</p>
@@ -258,6 +273,21 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 ### Proyectos Destacados
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NUEVO-0EA5E9?style=flat-square&logoColor=white"/></h3>
+      <p>Plataforma SaaS B2B de telemetría vehicular. <strong>10 microservicios .NET 8</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), <strong>Kafka KRaft</strong> 3 nodos, <strong>TimescaleDB</strong> hypertables para pings GPS, geofencing <strong>PostGIS</strong> ST_Contains, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, alertas real-time SignalR. Multi-tenant RLS en PostgreSQL. 280+ tests unitarios · Auditoría OWASP · CI/CD GitHub Actions · IaC Azure Container Apps (Bicep).</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kafka_KRaft-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/microservices-demo">⚙️ microservices-demo</a></h3>
