@@ -97,7 +97,7 @@ Solutions Architect with 13+ years building critical systems in production. I ha
 | Period | Company | Role |
 |---|---|---|
 | 2025 – Present | **[EfiziAI](https://efiziai.com/en)** | **Lead AI & Automation Engineer / Solutions Architect** |
-| 2022 – 2025 | SATRACK | Senior Software Architect |
+| 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
 | 2016 – 2019 | LET ME KNOW / SOFTWARE ESTRATÉGICO | Developer |
@@ -262,7 +262,7 @@ Arquitecto de soluciones con más de 13 años construyendo sistemas críticos en
 | Período | Empresa | Rol |
 |---|---|---|
 | 2025 – Presente | **[EfiziAI](https://efiziai.com/es)** | **Lead AI & Automation Engineer / Solutions Architect** |
-| 2022 – 2025 | SATRACK | Senior Software Architect |
+| 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
 | 2016 – 2019 | LET ME KNOW / SOFTWARE ESTRATÉGICO | Developer |
