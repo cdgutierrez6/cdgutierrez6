@@ -98,10 +98,10 @@ Solutions Architect with 13+ years building critical systems in production. I ha
 |---|---|---|
 | 2025 – Present | **[EfiziAI](https://efiziai.com/en)** | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Architect |
-| 2019 – 2022 | DOCTUS / INGENEO | Senior Full-Stack Developer |
-| 2015 – 2019 | COXTI / SOFTWARE ESTRATÉGICO | Full-Stack Developer |
-| 2012 – 2015 | LET ME KNOW / LLANO ALTO | Developer |
-| 2008 – 2012 | ELISE COLOMBIA / INTERKONT | Junior → Mid Developer |
+| 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
+| 2020 – 2021 | COXTI | Full-Stack Developer |
+| 2016 – 2019 | LET ME KNOW / SOFTWARE ESTRATÉGICO | Developer |
+| 2012 – 2016 | INTERKONT / LLANO ALTO | Junior → Developer |
 
 ---
 
@@ -263,10 +263,10 @@ Arquitecto de soluciones con más de 13 años construyendo sistemas críticos en
 |---|---|---|
 | 2025 – Presente | **[EfiziAI](https://efiziai.com/es)** | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Architect |
-| 2019 – 2022 | DOCTUS / INGENEO | Senior Full-Stack Developer |
-| 2015 – 2019 | COXTI / SOFTWARE ESTRATÉGICO | Full-Stack Developer |
-| 2012 – 2015 | LET ME KNOW / LLANO ALTO | Developer |
-| 2008 – 2012 | ELISE COLOMBIA / INTERKONT | Junior → Mid Developer |
+| 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
+| 2020 – 2021 | COXTI | Full-Stack Developer |
+| 2016 – 2019 | LET ME KNOW / SOFTWARE ESTRATÉGICO | Developer |
+| 2012 – 2016 | INTERKONT / LLANO ALTO | Junior → Developer |
 
 ---
 
