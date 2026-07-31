@@ -96,7 +96,7 @@ Solutions Architect with 13+ years building critical systems in production. I ha
 
 | Period | Company | Role |
 |---|---|---|
-| 2025 – Present | **[EfiziAI](https://efiziai.com/en)** | **Lead AI & Automation Engineer / Solutions Architect** |
+| 2025 – 2026 | **[EfiziAI](https://efiziai.com/en)** | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
@@ -136,7 +136,7 @@ Solutions Architect with 13+ years building critical systems in production. I ha
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/rag-ai-assistant">🤖 rag-ai-assistant</a></h3>
-      <p>Production-ready RAG (Retrieval Augmented Generation) system. Ingests PDF/DOCX/TXT, generates embeddings with sentence-transformers, semantic search via <strong>pgvector</strong> and answers using <strong>Claude API</strong> with session history.</p>
+      <p>RAG (Retrieval Augmented Generation) system. Ingests PDF/DOCX/TXT, generates embeddings with sentence-transformers, semantic search via <strong>pgvector</strong> and answers using <strong>Claude API</strong> with session history.</p>
       <p>
         <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -158,7 +158,7 @@ Solutions Architect with 13+ years building critical systems in production. I ha
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://portafolio-frontend-wheat.vercel.app">🌐 portafolio-frontend</a></h3>
-      <p>Multilingual personal portfolio (ES · EN · PT) with animated intro, interactive particle background, experience timeline and functional contact form. Auto-deployed to Vercel on every push.</p>
+      <p>Multilingual personal portfolio (ES · EN) with a cinematic 3D hero (react-three-fiber), an experience timeline and a functional contact form. Auto-deployed to Vercel on every push.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -175,7 +175,7 @@ Solutions Architect with 13+ years building critical systems in production. I ha
 
 *"The right architecture isn't the most elegant — it's the one the team can maintain and scale in production."*
 
-**Open to freelance projects and collaborations — [Contact me](mailto:cdgutierrez6@gmail.com)**
+**Open to senior / Solutions Architect roles — remote (USD) · GMT-5 — [Contact me](mailto:cdgutierrez6@gmail.com)**
 
 </div>
 
@@ -261,7 +261,7 @@ Arquitecto de soluciones con más de 13 años construyendo sistemas críticos en
 
 | Período | Empresa | Rol |
 |---|---|---|
-| 2025 – Presente | **[EfiziAI](https://efiziai.com/es)** | **Lead AI & Automation Engineer / Solutions Architect** |
+| 2025 – 2026 | **[EfiziAI](https://efiziai.com/es)** | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
@@ -301,7 +301,7 @@ Arquitecto de soluciones con más de 13 años construyendo sistemas críticos en
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/rag-ai-assistant">🤖 rag-ai-assistant</a></h3>
-      <p>Sistema RAG (Retrieval Augmented Generation) listo para producción. Ingesta PDF/DOCX/TXT, genera embeddings con sentence-transformers, búsqueda semántica con <strong>pgvector</strong> y responde via <strong>Claude API</strong> con historial de sesión.</p>
+      <p>Sistema RAG (Retrieval Augmented Generation). Ingesta PDF/DOCX/TXT, genera embeddings con sentence-transformers, búsqueda semántica con <strong>pgvector</strong> y responde via <strong>Claude API</strong> con historial de sesión.</p>
       <p>
         <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -323,7 +323,7 @@ Arquitecto de soluciones con más de 13 años construyendo sistemas críticos en
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://portafolio-frontend-wheat.vercel.app">🌐 portafolio-frontend</a></h3>
-      <p>Portfolio personal multilingüe (ES · EN · PT) con intro animada, partículas interactivas, timeline de experiencia y formulario de contacto funcional. Desplegado en Vercel con CI/CD automático.</p>
+      <p>Portfolio personal multilingüe (ES · EN) con un hero 3D cinematográfico (react-three-fiber), timeline de experiencia y formulario de contacto funcional. Desplegado en Vercel con CI/CD automático.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -340,7 +340,7 @@ Arquitecto de soluciones con más de 13 años construyendo sistemas críticos en
 
 *"La arquitectura correcta no es la más elegante — es la que el equipo puede mantener y escalar en producción."*
 
-**Abierto a proyectos freelance y colaboraciones — [Contáctame](mailto:cdgutierrez6@gmail.com)**
+**Disponible para roles senior / Arquitecto de Soluciones — remoto (USD) · GMT-5 — [Contáctame](mailto:cdgutierrez6@gmail.com)**
 
 </div>
 
