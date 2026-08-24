@@ -2,7 +2,7 @@
 
 # Cristian Daniel Gutiérrez S.
 
-### Solutions Architect · Senior Full-Stack Engineer
+### Senior Software Engineer · .NET + AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-daniel-guti%C3%A9rrez-segura)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-frontend-wheat.vercel.app)
@@ -23,7 +23,7 @@
 
 ### About Me
 
-Solutions Architect with 13+ years building backend systems. At **Satrack** I worked on the .NET/C# and Java microservices behind a real-time vehicle-telemetry core that processes millions of events per day across 100,000+ vehicles, and today I apply generative AI (LLM, RAG, agents) to automate complex business workflows.
+Senior Software Engineer with 13+ years building backend systems. At **Satrack** I worked on the .NET/C# and Java microservices behind a real-time vehicle-telemetry core that processes millions of events per day across 100,000+ vehicles, and today I apply generative AI (LLM, RAG, agents) to automate complex business workflows.
 
 - Specialized in distributed architectures: **Kafka · Kubernetes · Docker · AWS · Azure**
 - Polyglot backend: **Java · C#/.NET Core · Node.js · PHP/Laravel**
@@ -175,7 +175,7 @@ Solutions Architect with 13+ years building backend systems. At **Satrack** I wo
 
 *"The right architecture isn't the most elegant — it's the one the team can maintain and scale in production."*
 
-**Open to senior / Solutions Architect roles — remote (USD) · GMT-5 — [Contact me](mailto:cdgutierrez6@gmail.com)**
+**Open to senior .NET / AI engineering roles — remote (USD) · GMT-5 — [Contact me](mailto:cdgutierrez6@gmail.com)**
 
 </div>
 
@@ -188,7 +188,7 @@ Solutions Architect with 13+ years building backend systems. At **Satrack** I wo
 
 ### Sobre mí
 
-Arquitecto de soluciones con más de 13 años construyendo sistemas backend. En **Satrack** trabajé en los microservicios .NET/C# y Java detrás de un núcleo de telemetría vehicular en tiempo real que procesa millones de eventos al día de más de 100.000 vehículos, y hoy aplico IA generativa (LLM, RAG, agentes) para automatizar flujos de negocio complejos.
+Ingeniero de Software Senior con más de 13 años construyendo sistemas backend. En **Satrack** trabajé en los microservicios .NET/C# y Java detrás de un núcleo de telemetría vehicular en tiempo real que procesa millones de eventos al día de más de 100.000 vehículos, y hoy aplico IA generativa (LLM, RAG, agentes) para automatizar flujos de negocio complejos.
 
 - Especializado en arquitecturas distribuidas: **Kafka · Kubernetes · Docker · AWS · Azure**
 - Backend poliglota: **Java · C#/.NET Core · Node.js · PHP/Laravel**
