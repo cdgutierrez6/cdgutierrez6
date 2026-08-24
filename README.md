@@ -2,7 +2,7 @@
 
 # Cristian Daniel Gutiérrez S.
 
-### Solutions Architect · Senior Full-Stack Engineer
+### Senior Software Engineer · .NET + AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-daniel-guti%C3%A9rrez-segura)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-frontend-wheat.vercel.app)
@@ -23,12 +23,12 @@
 
 ### About Me
 
-Solutions Architect with 15+ years building critical systems in production. I have led the technological evolution of vehicle telemetry platforms, designed microservices architectures processing millions of daily events, and currently apply generative AI (LLM, RAG, agents) to automate complex business workflows.
+Senior Software Engineer with **13+ years** building backend and distributed systems. Most recently at **Satrack** (2022–2025), a vehicle-telemetry company, I worked on the .NET/C# and Java microservices behind a real-time core that processes **millions of transactional events per day** from a fleet of **100,000+ vehicles**. Today I focus on applied AI: my current project, **EfiziAI**, evolved from a B2B lead-scoring CRM into an AI phone receptionist that answers calls and books appointments (Retell · Twilio · Claude Haiku · Cal.com).
 
-- Specialized in distributed architectures: **Kafka · Kubernetes · Docker · AWS · Azure**
-- Polyglot backend: **Java · C#/.NET Core · Node.js · PHP/Laravel**
-- Modern frontend: **React · Next.js · Angular · TypeScript**
-- Applied AI/ML: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
+- Backend & distributed systems: **.NET / C# · Java · Kafka · Docker · Azure DevOps**
+- Databases: **SQL Server (T-SQL) · Oracle (PL/SQL) · PostgreSQL · EF Core**
+- Applied AI: **Claude API · RAG · LangChain · n8n · Prompt Engineering**
+- Also full-stack: **Node.js · TypeScript · React · Next.js · Angular**
 
 ---
 
@@ -96,8 +96,8 @@ Solutions Architect with 15+ years building critical systems in production. I ha
 
 | Period | Company | Role |
 |---|---|---|
-| 2025 – Present | **[EfiziAI](https://efiziai.com/en)** | **Founder & COO** — B2B AI Automation Agency |
-| 2022 – 2025 | SATRACK | Senior Software Architect |
+| 2025 – Present | **[EfiziAI](https://efiziai.com/en)** | **Founder** — EfiziAI (personal project) |
+| 2022 – 2025 | **SATRACK** | Senior Software Engineer |
 | 2019 – 2022 | DOCTUS / INGENEO | Senior Full-Stack Developer |
 | 2015 – 2019 | COXTI / SOFTWARE ESTRATÉGICO | Full-Stack Developer |
 | 2012 – 2015 | LET ME KNOW / LLANO ALTO | Developer |
@@ -110,8 +110,8 @@ Solutions Architect with 15+ years building critical systems in production. I ha
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NEW-0EA5E9?style=flat-square&logoColor=white"/></h3>
-      <p>B2B SaaS fleet telemetry platform. <strong>10 .NET 8 microservices</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), 3-node <strong>Kafka KRaft</strong>, <strong>TimescaleDB</strong> hypertables for GPS pings, <strong>PostGIS</strong> ST_Contains geofencing, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, SignalR real-time alerts. Multi-tenant RLS on PostgreSQL. 280+ unit tests · OWASP-audited · GitHub Actions CI/CD · Azure Container Apps IaC (Bicep).</p>
+      <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NEW-0EA5E9?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Portfolio_Build-64748B?style=flat-square&logoColor=white"/></h3>
+      <p><strong>Personal portfolio build</strong> (not a live product with real users). Fleet-telemetry platform: <strong>10 .NET 8 microservices</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), 3-node <strong>Kafka KRaft</strong>, <strong>TimescaleDB</strong> hypertables for GPS pings, <strong>PostGIS</strong> ST_Contains geofencing, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, SignalR real-time alerts. Multi-tenant RLS on PostgreSQL. ~280 unit tests · OWASP-aligned · GitHub Actions CI/CD · Azure Container Apps IaC (Bicep).</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
         <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -126,7 +126,7 @@ Solutions Architect with 15+ years building critical systems in production. I ha
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/microservices-demo">⚙️ microservices-demo</a></h3>
-      <p>Event-driven distributed architecture with 4 independent microservices. Implements <strong>Outbox Pattern</strong> for at-least-once delivery, circuit breaker, IP-based rate limiting and concurrent Kafka consumers.</p>
+      <p><strong>Reference implementation</strong> of microservices patterns — 4 example services (order / user / notification). Implements <strong>Outbox Pattern</strong> for at-least-once delivery, circuit breaker, IP-based rate limiting and concurrent Kafka consumers.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
@@ -136,7 +136,7 @@ Solutions Architect with 15+ years building critical systems in production. I ha
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/rag-ai-assistant">🤖 rag-ai-assistant</a></h3>
-      <p>Production-ready RAG (Retrieval Augmented Generation) system. Ingests PDF/DOCX/TXT, generates embeddings with sentence-transformers, semantic search via <strong>pgvector</strong> and answers using <strong>Claude API</strong> with session history.</p>
+      <p><strong>Reference RAG</strong> (Retrieval Augmented Generation) demo. Ingests PDF/DOCX/TXT, generates embeddings with sentence-transformers, semantic search via <strong>pgvector</strong> and answers using <strong>Claude API</strong> with session history.</p>
       <p>
         <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -148,7 +148,7 @@ Solutions Architect with 15+ years building critical systems in production. I ha
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/dotnet-clean-arch">🏗️ dotnet-clean-arch</a></h3>
-      <p>Enterprise Clean Architecture template in .NET 8. Implements <strong>CQRS</strong> with MediatR, Domain Events, immutable Value Objects, pipeline behaviors for validation/logging and Result pattern for exception-free error handling.</p>
+      <p><strong>Reference</strong> enterprise Clean Architecture template in .NET 8. Implements <strong>CQRS</strong> with MediatR, Domain Events, immutable Value Objects, pipeline behaviors for validation/logging and Result pattern for exception-free error handling.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23_12-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
@@ -158,7 +158,7 @@ Solutions Architect with 15+ years building critical systems in production. I ha
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://portafolio-frontend-wheat.vercel.app">🌐 portafolio-frontend</a></h3>
-      <p>Multilingual personal portfolio (ES · EN · PT) with animated intro, interactive particle background, experience timeline and functional contact form. Auto-deployed to Vercel on every push.</p>
+      <p><strong>Bilingual</strong> personal portfolio (ES · EN) with animated intro, interactive particle background, experience timeline and functional contact form. Auto-deployed to Vercel on every push.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -175,7 +175,7 @@ Solutions Architect with 15+ years building critical systems in production. I ha
 
 *"The right architecture isn't the most elegant — it's the one the team can maintain and scale in production."*
 
-**Open to freelance projects and collaborations — [Contact me](mailto:cdgutierrez6@gmail.com)**
+**Open to senior .NET / AI engineering roles and collaborations — [Contact me](mailto:cdgutierrez6@gmail.com)**
 
 </div>
 
@@ -188,12 +188,12 @@ Solutions Architect with 15+ years building critical systems in production. I ha
 
 ### Sobre mí
 
-Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en producción. He liderado la evolución tecnológica de plataformas de telemetría vehicular, diseñado arquitecturas de microservicios para millones de eventos diarios, y actualmente aplico IA generativa (LLM, RAG, agentes) para automatizar flujos de negocio complejos.
+Ingeniero de Software Senior con **13+ años** construyendo backend y sistemas distribuidos. Mi experiencia más reciente fue en **Satrack** (2022–2025), empresa de telemetría vehicular, donde trabajé en los microservicios .NET/C# y Java del núcleo en tiempo real que procesa **millones de eventos transaccionales al día** de una flota de **más de 100.000 vehículos**. Hoy me enfoco en IA aplicada: mi proyecto actual, **EfiziAI**, evolucionó de un CRM B2B de scoring de leads a una recepcionista de voz IA que atiende llamadas y agenda citas (Retell · Twilio · Claude Haiku · Cal.com).
 
-- Especializado en arquitecturas distribuidas: **Kafka · Kubernetes · Docker · AWS · Azure**
-- Backend poliglota: **Java · C#/.NET Core · Node.js · PHP/Laravel**
-- Frontend moderno: **React · Next.js · Angular · TypeScript**
-- AI/ML aplicado: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
+- Backend y sistemas distribuidos: **.NET / C# · Java · Kafka · Docker · Azure DevOps**
+- Bases de datos: **SQL Server (T-SQL) · Oracle (PL/SQL) · PostgreSQL · EF Core**
+- IA aplicada: **Claude API · RAG · LangChain · n8n · Prompt Engineering**
+- También full-stack: **Node.js · TypeScript · React · Next.js · Angular**
 
 ---
 
@@ -261,8 +261,8 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 
 | Período | Empresa | Rol |
 |---|---|---|
-| 2025 – Presente | **[EfiziAI](https://efiziai.com/es)** | **Fundador & COO** — Agencia B2B de Automatización con IA |
-| 2022 – 2025 | SATRACK | Senior Software Architect |
+| 2025 – Presente | **[EfiziAI](https://efiziai.com/es)** | **Fundador** — EfiziAI (proyecto propio) |
+| 2022 – 2025 | **SATRACK** | Ingeniero de Software Senior |
 | 2019 – 2022 | DOCTUS / INGENEO | Senior Full-Stack Developer |
 | 2015 – 2019 | COXTI / SOFTWARE ESTRATÉGICO | Full-Stack Developer |
 | 2012 – 2015 | LET ME KNOW / LLANO ALTO | Developer |
@@ -275,8 +275,8 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NUEVO-0EA5E9?style=flat-square&logoColor=white"/></h3>
-      <p>Plataforma SaaS B2B de telemetría vehicular. <strong>10 microservicios .NET 8</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), <strong>Kafka KRaft</strong> 3 nodos, <strong>TimescaleDB</strong> hypertables para pings GPS, geofencing <strong>PostGIS</strong> ST_Contains, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, alertas real-time SignalR. Multi-tenant RLS en PostgreSQL. 280+ tests unitarios · Auditoría OWASP · CI/CD GitHub Actions · IaC Azure Container Apps (Bicep).</p>
+      <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NUEVO-0EA5E9?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Build_de_Portafolio-64748B?style=flat-square&logoColor=white"/></h3>
+      <p><strong>Build personal de portafolio</strong> (no es un producto en vivo con usuarios reales). Plataforma de telemetría vehicular: <strong>10 microservicios .NET 8</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), <strong>Kafka KRaft</strong> 3 nodos, <strong>TimescaleDB</strong> hypertables para pings GPS, geofencing <strong>PostGIS</strong> ST_Contains, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, alertas real-time SignalR. Multi-tenant RLS en PostgreSQL. ~280 tests unitarios · alineado a OWASP · CI/CD GitHub Actions · IaC Azure Container Apps (Bicep).</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
         <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -291,7 +291,7 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/microservices-demo">⚙️ microservices-demo</a></h3>
-      <p>Arquitectura distribuida orientada a eventos con 4 microservicios independientes. Implementa <strong>Outbox Pattern</strong> para garantía at-least-once, circuit breaker, rate limiting por IP y consumers Kafka concurrentes.</p>
+      <p><strong>Implementación de referencia</strong> de patrones de microservicios — 4 servicios de ejemplo (order / user / notification). Implementa <strong>Outbox Pattern</strong> para garantía at-least-once, circuit breaker, rate limiting por IP y consumers Kafka concurrentes.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
@@ -301,7 +301,7 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/rag-ai-assistant">🤖 rag-ai-assistant</a></h3>
-      <p>Sistema RAG (Retrieval Augmented Generation) listo para producción. Ingesta PDF/DOCX/TXT, genera embeddings con sentence-transformers, búsqueda semántica con <strong>pgvector</strong> y responde via <strong>Claude API</strong> con historial de sesión.</p>
+      <p>Demo de referencia de <strong>RAG</strong> (Retrieval Augmented Generation). Ingesta PDF/DOCX/TXT, genera embeddings con sentence-transformers, búsqueda semántica con <strong>pgvector</strong> y responde vía <strong>Claude API</strong> con historial de sesión.</p>
       <p>
         <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -313,7 +313,7 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/dotnet-clean-arch">🏗️ dotnet-clean-arch</a></h3>
-      <p>Template enterprise de Clean Architecture en .NET 8. Implementa <strong>CQRS</strong> con MediatR, Domain Events, Value Objects inmutables, pipeline behaviors para validación/logging y Result pattern para manejo de errores sin excepciones.</p>
+      <p>Template de referencia de Clean Architecture (enterprise) en .NET 8. Implementa <strong>CQRS</strong> con MediatR, Domain Events, Value Objects inmutables, pipeline behaviors para validación/logging y Result pattern para manejo de errores sin excepciones.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23_12-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
@@ -323,7 +323,7 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://portafolio-frontend-wheat.vercel.app">🌐 portafolio-frontend</a></h3>
-      <p>Portfolio personal multilingüe (ES · EN · PT) con intro animada, partículas interactivas, timeline de experiencia y formulario de contacto funcional. Desplegado en Vercel con CI/CD automático.</p>
+      <p>Portfolio personal <strong>bilingüe</strong> (ES · EN) con intro animada, partículas interactivas, timeline de experiencia y formulario de contacto funcional. Desplegado en Vercel con CI/CD automático.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -340,7 +340,7 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 
 *"La arquitectura correcta no es la más elegante — es la que el equipo puede mantener y escalar en producción."*
 
-**Abierto a proyectos freelance y colaboraciones — [Contáctame](mailto:cdgutierrez6@gmail.com)**
+**Abierto a roles senior de ingeniería .NET / IA y colaboraciones — [Contáctame](mailto:cdgutierrez6@gmail.com)**
 
 </div>
 
