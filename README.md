@@ -23,7 +23,7 @@
 
 ### About Me
 
-Solutions Architect with 13+ years building critical systems in production. I have led the technological evolution of vehicle telemetry platforms, designed microservices architectures processing millions of daily events, and currently apply generative AI (LLM, RAG, agents) to automate complex business workflows.
+Solutions Architect with 13+ years building backend systems. At **Satrack** I worked on the .NET/C# and Java microservices behind a real-time vehicle-telemetry core that processes millions of events per day across 100,000+ vehicles, and today I apply generative AI (LLM, RAG, agents) to automate complex business workflows.
 
 - Specialized in distributed architectures: **Kafka · Kubernetes · Docker · AWS · Azure**
 - Polyglot backend: **Java · C#/.NET Core · Node.js · PHP/Laravel**
@@ -188,7 +188,7 @@ Solutions Architect with 13+ years building critical systems in production. I ha
 
 ### Sobre mí
 
-Arquitecto de soluciones con más de 13 años construyendo sistemas críticos en producción. He liderado la evolución tecnológica de plataformas de telemetría vehicular, diseñado arquitecturas de microservicios para millones de eventos diarios, y actualmente aplico IA generativa (LLM, RAG, agentes) para automatizar flujos de negocio complejos.
+Arquitecto de soluciones con más de 13 años construyendo sistemas backend. En **Satrack** trabajé en los microservicios .NET/C# y Java detrás de un núcleo de telemetría vehicular en tiempo real que procesa millones de eventos al día de más de 100.000 vehículos, y hoy aplico IA generativa (LLM, RAG, agentes) para automatizar flujos de negocio complejos.
 
 - Especializado en arquitecturas distribuidas: **Kafka · Kubernetes · Docker · AWS · Azure**
 - Backend poliglota: **Java · C#/.NET Core · Node.js · PHP/Laravel**
