@@ -111,7 +111,7 @@ Senior Software Engineer with 13+ years building backend systems. At **Satrack**
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NEW-0EA5E9?style=flat-square&logoColor=white"/></h3>
-      <p>Portfolio/reference build I architected. <strong>9-10 .NET 8 microservices</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), 3-node <strong>Kafka KRaft</strong>, <strong>TimescaleDB</strong> hypertables for GPS pings, <strong>PostGIS</strong> ST_Contains geofencing, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, SignalR real-time alerts. Multi-tenant RLS on PostgreSQL. ~280 unit tests · OWASP-aligned · GitHub Actions CI/CD · Azure Container Apps IaC (Bicep).</p>
+      <p>Portfolio/reference build I architected. <strong>9 .NET 8 microservices</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), 3-node <strong>Kafka KRaft</strong>, <strong>TimescaleDB</strong> hypertables for GPS pings, <strong>PostGIS</strong> ST_Contains geofencing, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, SignalR real-time alerts. Multi-tenant RLS on PostgreSQL. ~280 unit tests · OWASP-aligned · GitHub Actions CI/CD · Azure Container Apps IaC (Bicep).</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
         <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -276,7 +276,7 @@ Ingeniero de Software Senior con más de 13 años construyendo sistemas backend.
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/cdgutierrez6/fleetvision">🚛 fleetvision</a> &nbsp;<img src="https://img.shields.io/badge/NUEVO-0EA5E9?style=flat-square&logoColor=white"/></h3>
-      <p>Build de portafolio (proyecto personal) de telemetría vehicular que arquitecté. <strong>9-10 microservicios .NET 8</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), <strong>Kafka KRaft</strong> 3 nodos, <strong>TimescaleDB</strong> hypertables para pings GPS, geofencing <strong>PostGIS</strong> ST_Contains, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, alertas real-time SignalR. Multi-tenant RLS en PostgreSQL. ~280 tests unitarios · Prácticas OWASP · CI/CD GitHub Actions · IaC Azure Container Apps (Bicep).</p>
+      <p>Build de portafolio (proyecto personal) de telemetría vehicular que arquitecté. <strong>9 microservicios .NET 8</strong> (Clean Architecture: Domain/Application/Infrastructure/API), <strong>Angular 21 + Nx Native Federation</strong> (7 MFEs), <strong>Kafka KRaft</strong> 3 nodos, <strong>TimescaleDB</strong> hypertables para pings GPS, geofencing <strong>PostGIS</strong> ST_Contains, <strong>YARP Gateway</strong>, OpenIddict JWT, Redis, alertas real-time SignalR. Multi-tenant RLS en PostgreSQL. ~280 tests unitarios · Prácticas OWASP · CI/CD GitHub Actions · IaC Azure Container Apps (Bicep).</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
         <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white"/>
