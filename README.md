@@ -25,7 +25,7 @@
 
 Senior Software Engineer with 13+ years building backend systems. At **Satrack** I worked on the .NET/C# and Java microservices behind a real-time vehicle-telemetry core that processes millions of events per day across 100,000+ vehicles, and today I apply generative AI (LLM, RAG, agents) to automate complex business workflows.
 
-- Specialized in distributed architectures: **Kafka · Kubernetes · Docker · AWS · Azure**
+- Specialized in distributed architectures: **Kafka · Kubernetes · Docker · Azure** (working familiarity with AWS)
 - Polyglot backend: **Java · C#/.NET Core · Node.js · PHP/Laravel**
 - Modern frontend: **React · Next.js · Angular · TypeScript**
 - Applied AI/ML: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
@@ -190,7 +190,7 @@ Senior Software Engineer with 13+ years building backend systems. At **Satrack**
 
 Ingeniero de Software Senior con 13+ años construyendo sistemas backend. En **Satrack** trabajé en los microservicios .NET/C# y Java detrás de un núcleo de telemetría vehicular en tiempo real que procesa millones de eventos al día de más de 100.000 vehículos, y hoy aplico IA generativa (LLM, RAG, agentes) para automatizar flujos de negocio complejos.
 
-- Especializado en arquitecturas distribuidas: **Kafka · Kubernetes · Docker · AWS · Azure**
+- Especializado en arquitecturas distribuidas: **Kafka · Kubernetes · Docker · Azure** (familiaridad práctica con AWS)
 - Backend poliglota: **Java · C#/.NET Core · Node.js · PHP/Laravel**
 - Frontend moderno: **React · Next.js · Angular · TypeScript**
 - AI/ML aplicado: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
