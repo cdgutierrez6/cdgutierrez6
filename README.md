@@ -26,7 +26,7 @@
 Senior Software Engineer with 13+ years building backend systems. At **Satrack** I worked on the .NET/C# and Java microservices behind a real-time vehicle-telemetry core that processes millions of events per day across 100,000+ vehicles, and today I apply generative AI (LLM, RAG, agents) to automate complex business workflows.
 
 - Specialized in distributed architectures: **Kafka · Kubernetes · Docker · Azure** (working familiarity with AWS)
-- Polyglot backend: **Java · C#/.NET Core · Node.js · PHP/Laravel**
+- Polyglot backend: **Java · C#/.NET Core · Node.js · PHP**
 - Modern frontend: **React · Next.js · Angular · TypeScript**
 - Applied AI/ML: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
 
@@ -43,7 +43,6 @@ Senior Software Engineer with 13+ years building backend systems. At **Satrack**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Frontend**
 
@@ -96,7 +95,7 @@ Senior Software Engineer with 13+ years building backend systems. At **Satrack**
 
 | Period | Company | Role |
 |---|---|---|
-| 2025 – 2026 | **[EfiziAI](https://efiziai.com/en)** | **Lead AI & Automation Engineer / Solutions Architect** |
+| 2025 – Present | **[EfiziAI](https://efiziai.com/en)** | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
@@ -175,7 +174,7 @@ Senior Software Engineer with 13+ years building backend systems. At **Satrack**
 
 *"The right architecture isn't the most elegant — it's the one the team can maintain and scale in production."*
 
-**Open to senior .NET / AI engineering roles — remote (USD) · GMT-5 — [Contact me](mailto:cdgutierrez6@gmail.com)**
+**Open to senior Backend .NET/AI (IC) roles — remote (USD) · GMT-5 — [Contact me](mailto:cdgutierrez6@gmail.com)**
 
 </div>
 
@@ -191,7 +190,7 @@ Senior Software Engineer with 13+ years building backend systems. At **Satrack**
 Ingeniero de Software Senior con 13+ años construyendo sistemas backend. En **Satrack** trabajé en los microservicios .NET/C# y Java detrás de un núcleo de telemetría vehicular en tiempo real que procesa millones de eventos al día de más de 100.000 vehículos, y hoy aplico IA generativa (LLM, RAG, agentes) para automatizar flujos de negocio complejos.
 
 - Especializado en arquitecturas distribuidas: **Kafka · Kubernetes · Docker · Azure** (familiaridad práctica con AWS)
-- Backend poliglota: **Java · C#/.NET Core · Node.js · PHP/Laravel**
+- Backend poliglota: **Java · C#/.NET Core · Node.js · PHP**
 - Frontend moderno: **React · Next.js · Angular · TypeScript**
 - AI/ML aplicado: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
 
@@ -208,7 +207,6 @@ Ingeniero de Software Senior con 13+ años construyendo sistemas backend. En **S
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Frontend**
 
@@ -261,7 +259,7 @@ Ingeniero de Software Senior con 13+ años construyendo sistemas backend. En **S
 
 | Período | Empresa | Rol |
 |---|---|---|
-| 2025 – 2026 | **[EfiziAI](https://efiziai.com/es)** | **Lead AI & Automation Engineer / Solutions Architect** |
+| 2025 – Presente | **[EfiziAI](https://efiziai.com/es)** | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
@@ -340,7 +338,7 @@ Ingeniero de Software Senior con 13+ años construyendo sistemas backend. En **S
 
 *"La arquitectura correcta no es la más elegante — es la que el equipo puede mantener y escalar en producción."*
 
-**Disponible para roles senior / Arquitecto de Soluciones — remoto (USD) · GMT-5 — [Contáctame](mailto:cdgutierrez6@gmail.com)**
+**Disponible para roles senior Backend .NET/IA (IC) — remoto (USD) · GMT-5 — [Contáctame](mailto:cdgutierrez6@gmail.com)**
 
 </div>
 
