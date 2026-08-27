@@ -29,6 +29,7 @@ Senior Software Engineer with 13+ years building backend systems. At **Satrack**
 - Polyglot backend: **Java · C#/.NET Core · Node.js · PHP**
 - Modern frontend: **React · Next.js · Angular · TypeScript**
 - Applied AI/ML: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
+- Certifications (Platzi): **Claude Code · Claude AI · Prompt Engineering · Software Architecture · Database Fundamentals**
 
 ---
 
@@ -193,6 +194,7 @@ Ingeniero de Software Senior con 13+ años construyendo sistemas backend. En **S
 - Backend poliglota: **Java · C#/.NET Core · Node.js · PHP**
 - Frontend moderno: **React · Next.js · Angular · TypeScript**
 - AI/ML aplicado: **LangChain · RAG Systems · Claude API · n8n · Prompt Engineering**
+- Certificaciones (Platzi): **Claude Code · Claude AI · Prompt Engineering · Arquitectura de Software · Fundamentos de Bases de Datos**
 
 ---
 
