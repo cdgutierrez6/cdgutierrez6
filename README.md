@@ -23,7 +23,7 @@
 
 ### About Me
 
-Senior Software Engineer with 13+ years building backend systems: .NET/C# and Java microservices behind real-time vehicle-telemetry cores that process millions of events per day across 100,000+ vehicles. Today I apply generative AI (LLM, RAG, agents) in my own product and reference builds.
+Senior Software Engineer with 14+ years building backend systems: .NET/C# and Java microservices behind real-time vehicle-telemetry cores that process millions of events per day across 100,000+ vehicles. Today I apply generative AI (LLM, RAG, agents) in my own projects and reference builds.
 
 - Specialized in distributed architectures: **Kafka · Kubernetes · Docker · Azure** (working familiarity with AWS)
 - Polyglot backend: **Java · C#/.NET Core · Node.js · PHP**
@@ -96,7 +96,7 @@ Senior Software Engineer with 13+ years building backend systems: .NET/C# and Ja
 
 | Period | Company | Role |
 |---|---|---|
-| 2025 – Present | **[EfiziAI](https://efiziai.com/en)** | **Lead AI & Automation Engineer / Solutions Architect** |
+| 2025 – 2026 | **EfiziAI** (own product) | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
@@ -188,7 +188,7 @@ Senior Software Engineer with 13+ years building backend systems: .NET/C# and Ja
 
 ### Sobre mí
 
-Ingeniero de Software Senior con 13+ años construyendo sistemas backend: microservicios .NET/C# y Java detrás de núcleos de telemetría vehicular en tiempo real que procesan millones de eventos al día de más de 100.000 vehículos. Hoy aplico IA generativa (LLM, RAG, agentes) en mi propio producto y en builds de referencia.
+Ingeniero de Software Senior con 14+ años construyendo sistemas backend: microservicios .NET/C# y Java detrás de núcleos de telemetría vehicular en tiempo real que procesan millones de eventos al día de más de 100.000 vehículos. Hoy aplico IA generativa (LLM, RAG, agentes) en mis proyectos propios y en builds de referencia.
 
 - Especializado en arquitecturas distribuidas: **Kafka · Kubernetes · Docker · Azure** (familiaridad práctica con AWS)
 - Backend poliglota: **Java · C#/.NET Core · Node.js · PHP**
@@ -261,7 +261,7 @@ Ingeniero de Software Senior con 13+ años construyendo sistemas backend: micros
 
 | Período | Empresa | Rol |
 |---|---|---|
-| 2025 – Presente | **[EfiziAI](https://efiziai.com/es)** | **Lead AI & Automation Engineer / Solutions Architect** |
+| 2025 – 2026 | **EfiziAI** (producto propio) | **Lead AI & Automation Engineer / Solutions Architect** |
 | 2022 – 2025 | SATRACK | Senior Software Engineer |
 | 2021 – 2022 | INGENEO / DOCTUS | Senior Full-Stack Developer |
 | 2020 – 2021 | COXTI | Full-Stack Developer |
